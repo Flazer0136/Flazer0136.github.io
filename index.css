@@ -4,7 +4,11 @@ h1 {
     background-color: lightgoldenrodyellow;
 }
 body {
-    color: rgb(204, 255, 0);
+    color: lightgoldenrodyellow;
     background-color: rgb(34, 40, 40);
     text-align:center;
+}
+h2 {
+    color: lightgoldenrodyellow;
+    text-align: center;
 }
